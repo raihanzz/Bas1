@@ -34,7 +34,7 @@ text-align: center;
 }
 
  .navbar-toggler-icon{
-    background: url(./Content/images/icons8-menu-32.png) no-repeat;
+    background: url(Content/images/icons8-menu-32.png) no-repeat;
    
 } 
 #nav-menu-name{
