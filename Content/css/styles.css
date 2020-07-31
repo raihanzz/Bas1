@@ -1,0 +1,80 @@
+ /* .h1{
+    background-color: solid aqua;
+}
+#header-nav{
+    background-color: rgb(0, 0, 0);
+    border-radius: 0;
+    border: 0;
+    
+}
+ #logo-img{
+background: url('/Content/images/rsz_youtube_icon.png') no-repeat;
+width: 150px;
+height: 150px;
+margin: 10px 15px 10px 0;
+}
+#button-nav{
+color: red;
+
+}   */
+
+#h1{
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+#nav-menu-name{
+text-align: center;
+
+}
+#header{
+    color: #161c33;
+}
+.navbar-custom {
+    background-color: #161c33;
+}
+
+ .navbar-toggler-icon{
+    background: url('/Content/images/icons8-menu-32.png') no-repeat;
+   
+} 
+#nav-menu-name{
+font-size: larger;
+color: #f34c73;
+
+}
+.nav-item{
+
+    background-color: white;
+}
+
+
+@media (min-width: 768px){
+.navbar-nav {
+
+    visibility:collapse;
+}
+#myBtn{
+    visibility: collapse;
+    fill: yellowgreen;
+}
+}
+.card{
+margin-bottom: 30px;    
+width: auto;
+height: auto;
+
+}
+/* .container{
+    background-size: cover;
+    background-color: #161c33;
+} */
+#section-header{
+    font-size: larger;
+    font-weight: 900;
+    text-align: center;
+}
+#content{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
