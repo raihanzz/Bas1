@@ -8,7 +8,7 @@
     
 }
  #logo-img{
-background: url('/Content/images/rsz_youtube_icon.png') no-repeat;
+background: url('Content/images/rsz_youtube_icon.png') no-repeat;
 width: 150px;
 height: 150px;
 margin: 10px 15px 10px 0;
@@ -34,7 +34,7 @@ text-align: center;
 }
 
  .navbar-toggler-icon{
-    background: url('/Content/images/icons8-menu-32.png') no-repeat;
+    background: url('Content/images/icons8-menu-32.png') no-repeat;
    
 } 
 #nav-menu-name{
